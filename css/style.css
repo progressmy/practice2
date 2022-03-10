@@ -1,0 +1,39 @@
+.ttl{
+  text-align:right;
+  margin:10px;
+}
+
+
+.practice2__ttl{
+  font-size:24px;
+  
+  display:inline-block;
+  float: left;
+}
+.http{
+  font-size:16px;
+  display:inline-block;
+  
+}
+
+.practice2__img img{
+  
+  margin: 100px  0px;
+  height:500px;
+  float:right;
+  z-index: 10;
+}
+
+.subttl{
+  font-size:100px;
+  margin :300px auto auto 0px;
+  font-weight:lighter;
+}
+
+.practice2__color{
+  background-color:blue;
+  width:1000px;
+  height:250px;
+  z-index: 5;
+  
+}
