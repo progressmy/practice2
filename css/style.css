@@ -1,19 +1,41 @@
 .ttl{
   text-align:right;
   margin:10px;
+  display:flex;
 }
 
 
-.practice2__ttl{
+.main__ttl{
   font-size:24px;
+  margin-left:20px;
   
-  display:inline-block;
-  float: left;
+  margin-top:50px;
 }
-.http{
+
+.sub__tag{
   font-size:16px;
+  display:flex;
+  margin:40px 20px auto auto;
+  justify-content:flex-end;
+  text-align:right;  
+}
+
+.sub__tag__ho-mu{
   display:inline-block;
-  
+  margin :10px 10px 10px 10px;
+}
+
+.sub__tag__jigyou{
+  display:inline-block;
+  margin :10px 10px 10px 10px;
+}
+.sub__tag__saiyou{
+  display:inline-block;
+  margin :10px 10px 10px 10px;
+}
+.sub__tag__otoi{
+  display:inline-block;
+  margin :10px 10px 10px 10px;
 }
 
 .practice2__img img{
@@ -22,6 +44,8 @@
   height:500px;
   float:right;
   z-index: 10;
+  background-size:50%;
+
 }
 
 .subttl{
